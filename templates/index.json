@@ -12,9 +12,21 @@
         "enable_image_zoom": true,
         "enable_video_looping": false
       }
+    },
+    "cd648bd6-e77d-4d64-beb3-afd6d06f42fb": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1686.jpg",
+        "layout": "left",
+        "title": "Enjoy Free Shipping!",
+        "text": "<p>✅ All of our items are made to order. This means as soon as you order, we get to work producing your item!<\/p><p>📦 Please allow 5-7 business days to receive a tracking number<\/p><p>📫 Depending on your location, shipping time is quoted by the mail carrier as 4-12 business days.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
-    "7e6e4904-39cb-4ae9-beb0-1e530227cf16"
+    "7e6e4904-39cb-4ae9-beb0-1e530227cf16",
+    "cd648bd6-e77d-4d64-beb3-afd6d06f42fb"
   ]
 }
