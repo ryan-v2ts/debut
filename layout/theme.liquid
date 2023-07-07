@@ -84,7 +84,13 @@
     {{ base_font_bolder | font_face: font_display: 'swap' }}
     {{ base_font_italic | font_face: font_display: 'swap' }}
     {{ base_font_bold_italic | font_face: font_display: 'swap' }}
+    @font-face {
+      font-family: "HarryP";
+      src: url("https://cdn.shopify.com/s/files/1/0788/2824/1169/files/HARRYP.woff2?v=1688749358") format("woff2");
+    }
   </style>
+
+  
 
   <script>
     {%- if settings.currency_code_enabled -%}
