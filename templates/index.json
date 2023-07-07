@@ -8,7 +8,7 @@
         "show_vendor": false,
         "enable_payment_button": false,
         "show_share_buttons": false,
-        "media_size": "small",
+        "media_size": "medium",
         "enable_image_zoom": true,
         "enable_video_looping": false
       }
