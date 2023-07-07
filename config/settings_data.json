@@ -113,23 +113,16 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
+          "94401f8f-0cb4-4982-8b88-3cbb4d0df6d9": {
+            "type": "text",
             "settings": {
-              "title": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "newsletter",
-            "settings": {
-              "title": "Newsletter"
+              "title": "100% Satisfaction Guaranteed",
+              "text": "<p>Email us at support@harrylooks.com<\/p>"
             }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1"
+          "94401f8f-0cb4-4982-8b88-3cbb4d0df6d9"
         ],
         "settings": {
           "show_payment_icons": true,
