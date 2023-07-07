@@ -1,5 +1,18 @@
 {
   "sections": {
+    "7e6e4904-39cb-4ae9-beb0-1e530227cf16": {
+      "type": "featured-product",
+      "settings": {
+        "featured_product": "griffin-air-force-sneakers",
+        "show_quantity_selector": false,
+        "show_vendor": false,
+        "enable_payment_button": false,
+        "show_share_buttons": false,
+        "media_size": "small",
+        "enable_image_zoom": true,
+        "enable_video_looping": false
+      }
+    },
     "hero-2": {
       "type": "hero",
       "settings": {
@@ -15,6 +28,7 @@
     }
   },
   "order": [
+    "7e6e4904-39cb-4ae9-beb0-1e530227cf16",
     "hero-2"
   ]
 }
