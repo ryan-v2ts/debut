@@ -136,7 +136,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "12466699875182067887": {
+        "type": "shopify:\/\/apps\/infinite-fb-tiktok-pixels\/blocks\/app-embed\/772a3e6d-07c8-403d-a551-b0836f022399",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
