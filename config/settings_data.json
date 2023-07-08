@@ -553,8 +553,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "@font-face {font-family: \"Font name\"; src: url(\"{{'HARRYP' | file_url }}\") format(\"[font-format]\");}",
-      "#shopify-installments {display: none;}"
+      "p .shopify-installments {display: none;}"
     ]
   }
 }
