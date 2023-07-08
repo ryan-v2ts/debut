@@ -553,7 +553,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "p .shopify-installments {display: none;}"
+      ".shopify-installments {display: none;}"
     ]
   }
 }
