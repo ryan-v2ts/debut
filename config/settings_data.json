@@ -120,10 +120,18 @@
               "title": "100% Satisfaction Guaranteed",
               "text": "<p>Email us at support@harrylooks.com<\/p>"
             }
+          },
+          "c5354f83-4d96-4802-9e14-72fce0973344": {
+            "type": "link_list",
+            "settings": {
+              "title": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
-          "94401f8f-0cb4-4982-8b88-3cbb4d0df6d9"
+          "94401f8f-0cb4-4982-8b88-3cbb4d0df6d9",
+          "c5354f83-4d96-4802-9e14-72fce0973344"
         ],
         "settings": {
           "show_payment_icons": true,
@@ -146,9 +154,9 @@
       },
       "8942208844547249051": {
         "type": "shopify:\/\/apps\/ultimate-gdpr-eu-cookie-banner\/blocks\/widget\/9ad66af2-f521-41c0-96ef-0e66c4e1d187",
+        "disabled": false,
         "settings": {
-        },
-        "disabled": false
+        }
       }
     }
   },
