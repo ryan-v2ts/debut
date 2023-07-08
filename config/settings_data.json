@@ -554,7 +554,8 @@
   "platform_customizations": {
     "custom_css": [
       "#shopify-installments {display: none;}",
-      "shopify-payment-terms {display: none;}"
+      "shopify-payment-terms {display: none;}",
+      ".product-form {padding-top: 1rem;}"
     ]
   }
 }
