@@ -553,7 +553,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "#shopify-installments {display: none;}"
+      "#shopify-installments {display: none;}",
+      "shopify-payment-terms {display: none;}"
     ]
   }
 }
