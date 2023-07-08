@@ -555,7 +555,8 @@
     "custom_css": [
       "#shopify-installments {display: none;}",
       "shopify-payment-terms {display: none;}",
-      ".product-form {padding-top: 1rem;}"
+      ".product-form {padding-top: 1rem;}",
+      ".rte h1, .rte h2, .rte h3, .rte .h3, .rte h4, .rte .h4, .rte h5, .rte .h5, .rte h6, .rte .h6 {margin-top: 0px; margin-bottom: 27.5px;}"
     ]
   }
 }
