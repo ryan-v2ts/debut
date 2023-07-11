@@ -1,5 +1,7 @@
 {
   "current": {
+    "color_button": "#fbdb12",
+    "color_button_text": "#000000",
     "favicon": "shopify:\/\/shop_images\/lightning.png",
     "sections": {
       "header": {
