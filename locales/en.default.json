@@ -419,5 +419,12 @@
       "add_to_apple_wallet": "Add to Apple Wallet",
       "qr_image_alt": "QR code — scan to redeem gift card"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "pay_now_button_label": "Place Order"
+      }
+    }
   }
 }
