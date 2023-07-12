@@ -18,8 +18,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/1686.jpg",
         "layout": "left",
-        "title": "Enjoy Free Shipping!*",
-        "text": "<p>✅ All of our items are made to order. This means as soon as you order, we get to work producing your item!<\/p><p>📦 Please allow 5-7 business days to receive a tracking number<\/p><p>📫 Depending on your location, shipping time is quoted by the mail carrier as 4-12 business days.<\/p><h6>*Free Shipping available to the US, UK, DE, FR, Australia. Other countries may have additional shipping charges.<\/h6><p><\/p><p><\/p>",
+        "title": "Enjoy Free Shipping!",
+        "text": "<p>✅ All of our items are made to order. This means as soon as you order, we get to work producing your item!<\/p><p>📦 Please allow 5-7 business days to receive a tracking number<\/p><p>📫 Depending on your location, shipping time is quoted by the mail carrier as 4-12 business days.<\/p><p><\/p><p><\/p>",
         "button_label": "",
         "button_link": ""
       }
