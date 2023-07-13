@@ -12,11 +12,11 @@
           "logo_max_width": 185,
           "main_linklist": "main-menu",
           "message": true,
-          "home_page_only": true,
+          "home_page_only": false,
           "message_text": "🌍 FREE SHIPPING TO WORLDWIDE! 🌎",
           "message_link": "",
           "color_bg": "#6f1e1e",
-          "color_text": "#ffffff"
+          "color_text": "#fbdb12"
         }
       },
       "feature-row": {
