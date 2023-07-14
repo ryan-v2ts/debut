@@ -171,6 +171,34 @@
           "other_file_name": "",
           "reverse_options": false
         }
+      },
+      "15429414129375766668": {
+        "type": "shopify:\/\/apps\/hulk-sales-pop-notifications\/blocks\/app-embed\/55fb630d-fa40-432a-be43-6aab6b91101e",
+        "disabled": false,
+        "settings": {
+          "popup_enable": true,
+          "popup_style": "sp-square-popup",
+          "message": "Someone from [Country] recently purchased",
+          "bg_color": "#ffffff",
+          "link_color": "#000000",
+          "text_color": "#000000",
+          "btn_bgcolor": "#e8eaed",
+          "btn_color": "#333333",
+          "time_color": "#999999",
+          "desktop_tablet_position": "sp-bottom_left",
+          "animation": "sp-fade",
+          "show_on_mobile": "true",
+          "product_font_size": 14,
+          "text_font_size": 13,
+          "link_weight": "600",
+          "text_weight": "400",
+          "max_notification": 30,
+          "notification_duration": 2,
+          "first_notification_delay": 8,
+          "delay_between_notification": 3,
+          "utm_source": "",
+          "utm_medium": ""
+        }
       }
     }
   },
@@ -572,7 +600,7 @@
       ".product-form {padding-top: 1rem;}",
       ".rte h1,.rte h2,.rte h3,.rte .h3,.rte h4,.rte .h4,.rte h5,.rte .h5,.rte h6,.rte .h6 {margin-top: 0px; margin-bottom: 27.5px;}",
       "@font-face {font-family: \"HarryP\"; src: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0788\/2824\/1169\/files\/HARRYP.woff2?v=16887493582\") format(\"woff2\"), url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0788\/2824\/1169\/files\/HARRYP.woff2?v=1688749358\") format(\"woff\");}",
-      ".product-single__title {font-family: \"HarryP\" !important; font-size: 56px; letter-spacing: 0.1em; color: #ECB839;}",
+      ".product-single__title {font-family: \"HarryP\" !important; font-size: 56px; letter-spacing: 0.1em; color: #ecb839;}",
       "@media (max-width: 767px) {.product-single__title {font-size: 40px; }}"
     ]
   }
