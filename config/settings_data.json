@@ -572,7 +572,7 @@
       ".product-form {padding-top: 1rem;}",
       ".rte h1,.rte h2,.rte h3,.rte .h3,.rte h4,.rte .h4,.rte h5,.rte .h5,.rte h6,.rte .h6 {margin-top: 0px; margin-bottom: 27.5px;}",
       "@font-face {font-family: \"HarryP\"; src: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0788\/2824\/1169\/files\/HARRYP.woff2?v=16887493582\") format(\"woff2\"), url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0788\/2824\/1169\/files\/HARRYP.woff2?v=1688749358\") format(\"woff\");}",
-      ".product-single__title {font-family: \"HarryP\" !important; font-size: 56px; letter-spacing: 0.1em; color: #5a0009;}",
+      ".product-single__title {font-family: \"HarryP\" !important; font-size: 56px; letter-spacing: 0.1em; color: #ECB839;}",
       "@media (max-width: 767px) {.product-single__title {font-size: 40px; }}"
     ]
   }
