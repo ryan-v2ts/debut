@@ -602,7 +602,8 @@
       "@font-face {font-family: \"HarryP\"; src: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0788\/2824\/1169\/files\/HARRYP.woff2?v=16887493582\") format(\"woff2\"), url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0788\/2824\/1169\/files\/HARRYP.woff2?v=1688749358\") format(\"woff\");}",
       ".product-single__title {font-family: \"HarryP\" !important; font-size: 56px; letter-spacing: 0.1em; color: #ecb839;}",
       "@media (max-width: 767px) {.product-single__title {font-size: 40px; }}",
-      ".sale-text {color: #ea0606; font-weight: bold; padding: 4px; border: 1px dashed #ffaaaa; margin-top: 50px !important;}"
+      ".sale-text {color: #ea0606; font-weight: bold; padding: 4px; border: 1px dashed #ffaaaa; margin-top: 50px !important;}",
+      ".product__price, .featured-product__price {margin-block: 5px;}"
     ]
   }
 }
