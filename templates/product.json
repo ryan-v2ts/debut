@@ -12,8 +12,15 @@
     "main": {
       "type": "product-template",
       "blocks": {
+        "70fcb7d4-4e54-48dd-bf2d-205ad7c2064a": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h1 class=\"product-single__title\">Choose Your House<\/h1>"
+          }
+        },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
           }
         },
@@ -45,6 +52,7 @@
         }
       },
       "block_order": [
+        "70fcb7d4-4e54-48dd-bf2d-205ad7c2064a",
         "title",
         "price",
         "aa507598-3db4-45fe-b073-fc6db0653d3e",
