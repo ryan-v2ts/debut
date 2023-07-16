@@ -32,7 +32,7 @@
         "aa507598-3db4-45fe-b073-fc6db0653d3e": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class='sales-texts'><span class='sale-text'>Hurry! Summer Sale Ends in 3 Days!<\/span>\n<span class='sale-text-shipping'>Free Shipping!<\/span><\/div>"
+            "custom_liquid": "<div class='sales-texts'><span class='sale-text'>Hurry! Summer Sale Ends in 3 Days!<\/span><br \/>\n<span class='sale-text-shipping'>Free Shipping!<\/span><\/div>"
           }
         },
         "buttons": {
