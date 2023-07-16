@@ -604,7 +604,7 @@
       "@media (max-width: 767px) {.product-single__title {font-size: 40px; }}",
       "div.sales-texts {display: block;}",
       ".sale-text-shipping {padding-top: 10px; font-weight: bold;}",
-      ".sale-text {color: #ea0606; font-weight: bold; padding: 4px; border: 1px dashed #ffaaaa; margin-top: 50px !important; margin-bottom: 10px !important;}",
+      ".sale-text {color: #ea0606; font-weight: bold; padding: 4px; border: 1px dashed #ffaaaa;}",
       ".product__price,.featured-product__price {margin-block: 5px;}"
     ]
   }
